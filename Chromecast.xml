@@ -4,7 +4,7 @@
   <TranscodeTargets>
     <VideoProfile protocol="http" container="mkv" codec="h264" audioCodec="aac,mp3" context="streaming" />
     <MusicProfile container="mkv" codec="pcm" />
-	<MusicProfile container="wav" codec="pcm" />
+    <MusicProfile container="wav" codec="pcm" />
     <PhotoProfile container="jpeg" />
     <SubtitleProfile container="ass" codec="ass" />
   </TranscodeTargets>
